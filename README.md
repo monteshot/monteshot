@@ -7,7 +7,10 @@
 - These projects are unrelated to PerspectiveTeam Company and its intellectual property.
 
 ### Badges
-[<img src="https://storage.googleapis.com/prod-adobe-secure/credential%2F00c8045e-3e3f-4148-9d9b-22bfc05b8e14?GoogleAccessId=133892163607-compute@developer.gserviceaccount.com&Expires=1730239297&Signature=gnP2HvuqzDBsDYFl%2BFRk7qY4NODz6FhoV0E07UNMKWgaPYXvumMur4arbkSVkdsIYZhQgXIWPkTS2X%2BImy0kYCCGwV0K7zFNE1rTL5LtTtxWbFxdo0qcO2kHu532HhJgiMtqRGMmGrEDAO3RgFaD%2FQ4IIuPuShWJFuO%2Ff1i%2FpU%2FZwYHjIuAmg5qKvSP2UBtMuNXFQWJaME7b8touvealr9Y9CozzI2PnvckaAQUqTUIjgfsYozyPs6aAFb0aju%2BlIAUyrtY9hIb7Kd7n1jjtbmT1YTqM9ZsmAwn7L5PeVNmg%2FDu0qfM8ZD%2B4EDmDywoyHiKEwICIHrnr9p1juiv1Og%3D%3D" width="80" height="80">](https://certification.adobe.com/credential/verify/e91f6ad5-b15f-4e5f-9d3e-e5d275475290)
+[<img src="https://github.com/user-attachments/assets/9da540f3-290a-4b70-97ca-340529d6d718" width="80" height="80">](https://certification.adobe.com/credential/verify/e91f6ad5-b15f-4e5f-9d3e-e5d275475290)
+[<img src="https://github.com/user-attachments/assets/e189e117-5609-4850-a32a-b06f5759d387" width="80" height="80">](https://certification.adobe.com/credential/verify/539f47b7-fa9d-445d-a100-3046a919a1c0)
+[<img src="https://github.com/user-attachments/assets/f040a2a9-6e26-404f-b520-3e658405e302" width="80" height="80">](https://certification.adobe.com/credential/verify/a842314b-12d8-4c34-aa47-cef09a94557e)
+
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=monteshot&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monteshot)](https://git.io/streak-stats)
