@@ -14,8 +14,3 @@
 
 ![Github Stats Card](https://github-readme-stats.vercel.app/api?username=monteshot&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monteshot)](https://git.io/streak-stats)
-
-### My projects
-
-[![monteshot](https://github-readme-stats.vercel.app/api/pin/?username=monteshot&repo=monteshot)](https://github.com/monteshot/monteshot)
-
